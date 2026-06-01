@@ -1,0 +1,1 @@
+# serverless-cross-region
